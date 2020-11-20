@@ -1,0 +1,235 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/Sandra
+Data file = /var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/content.xml
+Widget file = /var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/widgets.wie
+Customizer file = /var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Widget already exists
+Categorías - No Title - Imported
+Formulario de suscripción de MailChimp - Newsletter - Imported
+
+Post Sidebar : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+(S&amp;E) Latest Projects - Recent Projects - Imported
+
+Page Sidebar : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+(S&amp;E) Latest Projects - Recent Projects - Imported
+Formulario de suscripción de MailChimp - Newsletter - Imported
+
+Footer 1 : 
+
+Texto - About Us - Imported
+
+Footer 2 : 
+
+Instagram Feed - Instagtam - Imported
+
+Footer 3 : 
+
+Nube de etiquetas - Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+/var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/slider1.zip/var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/slider2.zip/var/www/html/Sandra/wp-content/themes/simple-elegant/inc/demos/main/slider3.zip
