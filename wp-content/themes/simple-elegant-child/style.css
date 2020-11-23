@@ -134,11 +134,16 @@ rs-module#rev_slider_3_1 {
     color: #3d647b;
     font-weight: 400;
 }
-.type-image .image img {
-    width: 25%;
+.image img {
+    width: 82px;
+    height: 82px;
 }
+
 .sfHover .sub-menu {
     display: flex!important;
     flex-direction: column;
 	transition: 0.1s;
 	}
+input#username, input#password {
+    height: 35px;
+}
