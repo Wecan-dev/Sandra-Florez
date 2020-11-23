@@ -12,7 +12,7 @@
 
 <div class="searchform">
     <form method="get" action="<?php echo home_url();?>" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
-        <input type="text" name="s" class="search-field" value="<?php echo get_search_query();?>" placeholder="<?php esc_html_e('Search...','simple-elegant');?>" />
+        <input type="text" name="s" class="search-field" value="<?php echo get_search_query();?>" placeholder="<?php esc_html_e('Buscar...','simple-elegant');?>" />
         
         <input type="hidden" name="post_type" value="product" />
         

@@ -5,3 +5,140 @@ Author: Your name here
 Template: simple-elegant
 */
 /* start write your custom CSS from here */
+@font-face { 
+font-family:'Lusitana-Bold';
+src: url("../simple-elegant/custom/Lusitana-Bold.woff") format('woff');
+}
+@font-face { 
+font-family:'Lusitana-Regular';
+src: url("../simple-elegant/custom/Lusitana-Regular.woff") format('woff');
+}
+@font-face { 
+font-family:'optima';
+src: url("../simple-elegant/custom/optima.woff") format('woff');
+}
+@font-face { 
+font-family:'verdana';
+src: url("../simple-elegant/custom/verdana.woff") format('woff');
+}
+h2#slider-3-slide-5-layer-1.rs-layer, h2.callout-title, .btn-square.customize-unpreviewable{
+  font-family: 'Lusitana-Regular' !important;
+}
+rs-layer#slider-3-slide-5-layer-3.rs-layer, .product-cats a, span.price {
+    font-family: 'verdana' !important;
+}
+a.sf-with-ul, .vc_separator-has-text h4, h2.product-title {
+    font-family: 'optima';
+}
+/*----*/
+li.li-instagram a:hover, .li-envelope-o a:hover, .wi-scrollup.shown:hover{
+    border-color: #652637 !important;
+    background: #652637 !important;
+	color: white !important;
+}
+.fa-angle-up:before {
+	color: #652637!important;
+	}
+#footer-bottom .social-list ul li a, .wi-scrollup.shown{
+    color: #652637;
+    border: 1px solid #652637 !important;
+}
+span.woocommerce-Price-amount.amount {
+    font-weight: bold;
+}
+.woocommerce ul.products li.product .price del {
+    color: #b0b0b0;
+	}
+.price {
+	color: #9f7583 !important;
+	font-weight: bold !important;
+	}
+.product-cats, .product-title {
+    color: #000!important;
+}
+.vc_separator.vc_separator_align_center h4 {
+    padding: 0 2.8em !important;
+}
+.vc_separator.vc_separator_align_center h4 {
+    padding: 0 2.8em !important;
+}
+span.vc_sep_holder.vc_sep_holder_l:before, .vc_separator .vc_sep_holder:before {
+    content: "";
+    width: 6px;
+    position: absolute;
+    top: -2px;
+    margin-left: -20px;
+    font-size: 46px;
+    height: 6px;
+    background: #73887b;
+    border-radius: 4px;
+}
+span.vc_sep_holder.vc_sep_holder_l:after, .vc_separator .vc_sep_holder:after {
+    content: "";
+    text-align: center;
+    position: absolute;
+    top: 0;
+    width: 6px;
+    height: 6px;
+    background: #73887b;
+    right: -20px;
+    margin-top: -2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+#footer-widgets, #footer-bottom {
+    padding: 40px 0 !important;
+}
+.vc_separator-has-text h4 {
+    color: #652637;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+.widget:first-child .widget-title {
+    font-weight: 700;
+}
+.callout-content {
+    font-size: 16px;
+    color: black;
+    font-weight: 500;
+    font-family: 'verdana';
+}
+#wi-mainnav .menu > ul > li > a, .header-cart a {
+    font-weight: bold;
+}
+span.onsale {
+    background: #b7dade !important;
+    color: black !important;
+    font-family: 'Lusitana-Regular' !important;
+}
+h1#titlebar-title {
+    color: #652637;
+    font-weight: 500;
+}
+#wi-mainnav .menu > ul > li.mega.column-2 > ul {
+    width: 200px !important;
+	text-align: center;
+}
+
+#wi-mainnav .menu > ul > li.mega.column-2 > ul > li {
+    width: auto !important;
+}
+h2.callout-title {
+    color: #3d647b;
+}
+rs-module#rev_slider_3_1 {
+    background: #3d647b;
+}
+.wpb_wrapper h2 {
+    color: #3d647b;
+    font-weight: 400;
+}
+.type-image .image img {
+    width: 25%;
+}
+.sfHover .sub-menu {
+    display: flex!important;
+    flex-direction: column;
+	transition: 0.1s;
+	}

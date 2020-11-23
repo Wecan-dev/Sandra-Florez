@@ -1,0 +1,4 @@
+2020-11-23T02:18:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/Sandra/wp-includes/class-wp-image-editor-gd.php en la línea 191
+
+2020-11-23T02:27:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /var/www/html/Sandra/wp-includes/class-wp-image-editor-gd.php en la línea 191
+

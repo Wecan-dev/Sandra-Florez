@@ -23,7 +23,7 @@ get_header(); ?>
             
             <header class="page-header">
                 
-                <h1 itemprop="headline"><?php printf( esc_html__( 'Search results for "%s"', 'simple-elegant' ), get_search_query() ); ?></h1>
+                <h1 itemprop="headline"><?php printf( esc_html__( 'Resultado de busqueda "%s"', 'simple-elegant' ), get_search_query() ); ?></h1>
                 
 			</header><!-- .page-header -->
 
@@ -46,8 +46,8 @@ get_header(); ?>
             <?php
 			// Previous/next page navigation.
 			the_posts_pagination( array(
-				'prev_text'          => esc_html__( '&laquo; Previous', 'simple-elegant' ),
-				'next_text'          => esc_html__( 'Next &raquo;', 'simple-elegant' ),
+				'prev_text'          => esc_html__( '&laquo; Atras', 'simple-elegant' ),
+				'next_text'          => esc_html__( 'Siguiente &raquo;', 'simple-elegant' ),
 			) );
 
 		// If no content, include the "No posts found" template.
