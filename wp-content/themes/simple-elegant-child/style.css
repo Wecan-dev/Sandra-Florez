@@ -144,6 +144,31 @@ rs-module#rev_slider_3_1 {
     flex-direction: column;
 	transition: 0.1s;
 	}
+.woocommerce {
+    text-align: center;
+}
 input#username, input#password {
     height: 35px;
+}
+.login {
+	text-align: center;
+    display: inline-block;
+}
+input#field_29yf4d, input#field_qh4icy, input#field_e6lis6, textarea#field_9jv0r1 {
+	border-color: #3D647B;
+}
+button.frm_button_submit {
+    background: #3D647B !important;
+	border-color: #3D647B !important;
+}
+*:focus{
+	outline:none !important;
+	box-shadow: none !important;
+}
+input {
+	height: 30px!important;
+}
+
+textarea{
+	resize:none;
 }
